@@ -908,6 +908,28 @@
                 "tex": "core:fire",
                 "tint": "hsb 8 75 100"
             }
+        },
+        {
+            "position": "0.09 0.43",
+            "trigger": "engine",
+            "hasLight": true,
+            "particle": {
+                "effectFile": "core:flame",
+                "size": 0.3,
+                "tex": "core:fire",
+                "tint": "hsb 8 75 100"
+            }
+        },
+        {
+            "position": "0.09 0.57",
+            "trigger": "engine",
+            "hasLight": true,
+            "particle": {
+                "effectFile": "core:flame",
+                "size": 0.3,
+                "tex": "core:fire",
+                "tint": "hsb 8 75 100"
+            }
         }
     ]
 }
