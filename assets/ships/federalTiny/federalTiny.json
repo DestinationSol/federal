@@ -8,7 +8,7 @@
         "factor": 0.5,
         "rechargeTime": 4
     },
-    "displayName": "Escort",
+    "displayName": "IK-2 Escort",
     "engine": "core:pirateEngine",
     "gunSlots": [
         {
