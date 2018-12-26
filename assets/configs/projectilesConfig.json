@@ -2,7 +2,7 @@
     "heavySlug": {
         "dmg": 45,
         "dmgType": "bullet",
-        "spdLen": 3.8,
+        "speed": 3.8,
 
         "tex": "federal:heavySlug",
         "texSz": 0.17,
