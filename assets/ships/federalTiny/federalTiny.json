@@ -3,6 +3,7 @@
     "maxLife": 14,
     "type": "std",
     "price": 150,
+    "hirePrice": 150,
     "ability": {
         "type": "sloMo",
         "factor": 0.5,
